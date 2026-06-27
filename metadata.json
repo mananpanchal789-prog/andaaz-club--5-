@@ -1,0 +1,8 @@
+{
+  "name": "Andaaz Club",
+  "description": "Premium lifestyle and social club.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
