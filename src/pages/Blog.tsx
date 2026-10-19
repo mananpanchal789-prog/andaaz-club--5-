@@ -75,7 +75,7 @@ export default function Blog() {
                   <article key={idx} className="bg-white rounded-2xl overflow-hidden shadow-sm border border-gray-100 flex flex-col sm:flex-row">
                     <div className="sm:w-1/3 bg-gray-200 min-h-[200px] flex items-center justify-center">
                        {/* Placeholder for image */}
-                       <div className="text-gray-400">Image Placeholder</div>
+                       <div className="text-gray-400">Hello</div>
                     </div>
                     <div className="p-6 sm:p-8 flex flex-col justify-center sm:w-2/3">
                       <div className="flex items-center space-x-4 text-xs text-text-light mb-3">
